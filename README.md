@@ -10,6 +10,6 @@ Kuchipudi,
 Odissi,
 Sattriya,
 Manipuri and
-Mohiniyattam
+Mohiniyattam.
 
 
